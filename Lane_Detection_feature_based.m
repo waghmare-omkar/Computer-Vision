@@ -8,7 +8,7 @@ close all
 % Use of hough transform
 
 %% Read Image and save as a frame
-Fr = imread('lane_2.jpeg'); 
+Fr = imread('lane_1.jpg'); 
 figure(1); imshow(Fr);
 title('Original Image')
 
